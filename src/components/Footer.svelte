@@ -1,8 +1,5 @@
 <style>
   footer {
-    /* display: flex;
-    justify-content: center;
-    align-items: end; */
     padding: 40px;
     text-align: center;
   }
